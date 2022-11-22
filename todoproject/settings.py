@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://demod.azurewebsites.net'
+    'https://demodd.azurewebsites.net/'
 ]
 # Application definition
 
